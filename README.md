@@ -1,11 +1,11 @@
-# <img align="left" alt="Streamvalley" width="100px" src="https://streamvalley.cf/themes/youplay/img/icon.png" draggable="false" /> Streamvalley ([Click to try 🚀](https://streamvalley.cf/))
+# <img align="left" alt="Kitchat" width="100px" src="https://kitchat.tk/content/uploads/photos/2022/05/sngine_3a962c56dd0c37c8db548d4dd2ab9444.png" draggable="false" /> Kitchat ([Click to try 🚀](https://Kitchat.tk/))
 
-💙 Streamvalley - a video platform where everyone 🧑‍🤝‍🧑 can share their creativity✨, own knowledge 📚 or interesting and beautiful moments and watch🕶  other people.
+💜 Kitchat - Chat 💬 and share posts with friends and family 👪
 
 
 
-## **[Changelog 💙](https://github.com/linkspreed/Ples/blob/main/changelog.md)** **Check out the full Ples changelog**
-## **[Special Works 👨‍💻](https://github.com/linkspreed/Ples/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Ples besides development**
+## **[Changelog 💬](https://github.com/linkspreed/Kitchat/blob/main/changelog.md)** **Check out the full Kitchat changelog**
+## **[Special Works 👨‍💻](https://github.com/linkspreed/Kitchat/blob/main/Special_Works.md)** **Take a look at what changes we are doing to Kitchat besides development**
 
 
 <div align="center">
