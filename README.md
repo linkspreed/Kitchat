@@ -59,7 +59,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ðŸ
 
 
 ### Welcome :)
-<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Streamvalley/blob/main/Screenshots/1.PNG" draggable="false" />
+<img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/1.PNG" draggable="false" />
 
 ### Timeline
 <img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/2.PNG" draggable="false" />
