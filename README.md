@@ -64,7 +64,7 @@ for our developers, users and anyone who comes into contact with ([Linkspreed ğŸ
 ### Timeline
 <img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/2.PNG" draggable="false" />
 
-### Dashboard
+### Marketplace
 <img align="center" alt="KitChat" width="3000px" src="https://github.com/linkspreed/Kitchat/blob/main/Screenshots/3.PNG" draggable="false" />
 
 ### Settings
