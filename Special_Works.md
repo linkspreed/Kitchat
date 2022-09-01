@@ -1,3 +1,6 @@
+# 01.09.2022
+ - We will now release a new version (v3.6) for **Kitchat**.
+
 # 14.07.2022
  - The new version 3.5 has been released for **Kitchat**.
     - All changes can be checked in the changelog.
