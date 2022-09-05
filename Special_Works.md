@@ -1,4 +1,9 @@
 # 05.09.2022
+ - Kitchat is now getting a design update. 
+ - So please don't be surprised if the page doesn't work properly in the next 5-10 minutes. 
+ - We will let you know as soon as the update is complete.
+
+# 05.09.2022
  - This afternoon we're releasing a theme update for **Kitchat**.
 
 # 01.09.2022
