@@ -1,3 +1,6 @@
+# 05.09.2022
+ - This afternoon we're releasing a theme update for **Kitchat**.
+
 # 01.09.2022
  - We will now release a new version (v3.6) for **Kitchat**.
 
