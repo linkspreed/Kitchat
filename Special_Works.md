@@ -1,4 +1,7 @@
 # 12.09.2022
+ - We are currently launching version 3.6.1 on our servers.
+
+# 12.09.2022
  - We are now releasing version 3.6.1 of Kitchat, which fixes bugs from version 3.6. 🚀☁️
 
 # 05.09.2022
