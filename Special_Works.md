@@ -1,3 +1,6 @@
+# 12.09.2022
+ - We are now releasing version 3.6.1 of Kitchat, which fixes bugs from version 3.6. 🚀☁️
+
 # 05.09.2022
  - The theme update for Kitchat is here! 
  - We thoroughly tested the platform and all bugs related to the design are now fixed.
