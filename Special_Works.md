@@ -1,4 +1,8 @@
 # 12.09.2022
+ - Version 3.6.1 is now online on the servers.
+ - The errors were all fixed.
+
+# 12.09.2022
  - We are currently launching version 3.6.1 on our servers.
 
 # 12.09.2022
