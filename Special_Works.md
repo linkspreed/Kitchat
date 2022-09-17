@@ -1,3 +1,6 @@
+# 17.09.2022
+ - We're making small fine-tuning changes to BeYou and KitChat
+
 # 12.09.2022
  - Version 3.6.1 is now online on the servers.
  - The errors were all fixed.
