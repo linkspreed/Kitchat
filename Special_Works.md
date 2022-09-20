@@ -1,4 +1,7 @@
 # 20.09.2022
+ - We are still working very hard on version 3.6.2 for Kitchat✌️ 
+
+# 20.09.2022
  - We will release the new version 3.6.2 for KitChat very soon.
 
 # 17.09.2022
