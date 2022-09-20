@@ -1,3 +1,6 @@
+# 20.09.2022
+ - We will release the new version 3.6.2 for KitChat very soon.
+
 # 17.09.2022
  - We're making small fine-tuning changes to BeYou and KitChat
 
