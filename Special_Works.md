@@ -1,4 +1,7 @@
 # 21.09.2022
+ - We're still testing the update locally and then preparing everything :D
+
+# 21.09.2022
  - We're releasing version 3.6.2 for KitChat today.
 
 # 20.09.2022
