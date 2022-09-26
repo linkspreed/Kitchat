@@ -1,3 +1,6 @@
+# 26.09.2022
+ - We are now releasing the mini theme update for KitChat that will not go into the changelog.
+
 # 25.09.2022
  - We are working on a mini design update for the next few days.
 
