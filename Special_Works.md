@@ -1,3 +1,6 @@
+### 13.10.2022 (announcement KitChat)
+- We are working on a small update.
+
 # 26.09.2022
  - The design update is here!  
  - Small errors are thus fixed :D
