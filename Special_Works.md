@@ -1,3 +1,6 @@
+### 03.01.2023 (announcement KitChat)
+- We're working on **KitChat**!
+
 ### 13.10.2022 (announcement KitChat)
 - We are working on a small update.
 
