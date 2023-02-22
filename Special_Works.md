@@ -1,3 +1,24 @@
+### 22.02.2023 (announcement KitChat)
+- https://github.com/linkspreed/KitChat/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 22.02.2023 (announcement KitChat)
+- The launch of version 3.7 of **KitChat** was successful! 🥳
+- The new update is live now :)
+- https://kitchat.tk 🔗
+
+### 22.02.2023 (announcement KitChat)
+- We are now starting the launch of v3.7.
+
+### 22.02.2023 (announcement KitChat)
+- The servers are now ready for the launch of version 3.7 for **KitChat**.
+
+### 22.02.2023 (announcement KitChat)
+- The code is now ready for the launch of version 3.7 for **KitChat**.
+
+### 22.02.2023 (announcement KitChat)
+-  **KitChat** gets a big update today - we are going to launch v3.7. 😍
+
 ### 03.01.2023 (announcement KitChat)
 - We're working on **KitChat**!
 
