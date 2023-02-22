@@ -1,4 +1,7 @@
 ### 22.02.2023 (announcement KitChat)
+- The wait is over! Version 3.7 of KitChat is here, and it's better than ever before. Our team has worked tirelessly to bring you the latest and greatest features, so get ready to #KitChat your way to new heights! 🚀💬 #UpgradeNow
+
+### 22.02.2023 (announcement KitChat)
 - https://github.com/linkspreed/KitChat/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
