@@ -1,3 +1,6 @@
+### 02.04.2023 (announcement Kitchat)
+- 👨‍💻💪 Exciting news! We're hard at work on version 3.8 of #Kitchat, bringing you even more amazing features. Stay tuned! #appdevelopment #tech
+
 ### 22.02.2023 (announcement KitChat)
 - The wait is over! Version 3.7 of KitChat is here, and it's better than ever before. Our team has worked tirelessly to bring you the latest and greatest features, so get ready to #KitChat your way to new heights! 🚀💬 #UpgradeNow
 
