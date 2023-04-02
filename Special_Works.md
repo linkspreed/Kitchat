@@ -1,4 +1,7 @@
 ### 02.04.2023 (announcement KitChat)
+- 🍴📲 Hungry for some updates? Kitchat version 3.8 is now available! We've added some awesome new features and fixed some bugs. Check out the patch notes on GitHub and let us know what you think! #Kitchat #Updates
+
+### 02.04.2023 (announcement KitChat)
 - https://github.com/linkspreed/KitChat/blob/main/changelog.md
 - The entire changelog is now available on Github.
 
