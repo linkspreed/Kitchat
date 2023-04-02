@@ -1,4 +1,4 @@
-# <img align="left" alt="Kitchat" width="100px" src="https://kitchat.tk/content/uploads/photos/2022/05/sngine_3a962c56dd0c37c8db548d4dd2ab9444.png" draggable="false" /> Kitchat ([Click to try 🚀](https://Kitchat.tk/)) (v3.7)
+# <img align="left" alt="Kitchat" width="100px" src="https://kitchat.tk/content/uploads/photos/2022/05/sngine_3a962c56dd0c37c8db548d4dd2ab9444.png" draggable="false" /> Kitchat ([Click to try 🚀](https://Kitchat.tk/)) (v3.8)
 
 💜 Kitchat - Chat 💬 and share posts with friends and family 👪
 
