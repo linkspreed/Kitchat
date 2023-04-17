@@ -1,3 +1,6 @@
+### 17.04.2023 (announcement Kitchat)
+- We are thrilled to announce the release of Patch 3 for Version 3.8 of Kitchat! Upgrade now to enjoy even more amazing features and enhancements! 🎉👨‍🍳 #Kitchat #Update #Foodies
+
 ### 02.04.2023 (announcement KitChat)
 - 🍴📲 Hungry for some updates? Kitchat version 3.8 is now available! We've added some awesome new features and fixed some bugs. Check out the patch notes on GitHub and let us know what you think! #Kitchat #Updates
 
