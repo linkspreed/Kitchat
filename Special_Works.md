@@ -1,3 +1,6 @@
+### 10.06.2023 (annoucement Kitchat)
+- 👨‍💻👩‍💻 We're working hard on version 3.9 of Kitchat with some awesome new features! 🔥 But it won't be ready for a few more days as it's still in the Linkspreed Research Lab 🧪. Who's excited for the launch? 🚀 #KitchenChat #Version3point9 #UpdatesComingSoon
+
 ### 17.04.2023 (announcement Kitchat)
 - We are thrilled to announce the release of Patch 3 for Version 3.8 of Kitchat! Upgrade now to enjoy even more amazing features and enhancements! 🎉👨‍🍳 #Kitchat #Update #Foodies
 
