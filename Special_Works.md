@@ -1,3 +1,27 @@
+### 10.06.2023 (announcement Kitchat)
+- 🚀Attention all #Kitchat users!🚀 We're excited to announce the release of Version 3.9 Patch 3 🔥🎉 Get ready for some fantastic new features and improvements 🙌🏻 Don't forget to check out the Changelog and all important info on our Github Repository👀 What do you think of the update? #feedback #updates #technology 💻
+
+### 10.06.2023 (announcement KitChat)
+- https://github.com/linkspreed/KitChat/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 10.06.2023 (announcement KitChat)
+- The launch of version 3.9 of **KitChat** was successful! 🥳
+- The new update is live now :)
+- https://kitchat.tk 🔗
+
+### 10.06.2023 (announcement KitChat)
+- We are now starting the launch of v3.9.
+
+### 10.06.2023 (announcement KitChat)
+- The servers are now ready for the launch of version 3.9 for **KitChat**.
+
+### 10.06.2023 (announcement KitChat)
+- The code is now ready for the launch of version 3.9 for **KitChat**.
+
+### 10.06.2023 (announcement KitChat)
+-  **KitChat** gets a big update today - we are going to launch v3.9. 😍
+
 ### 10.06.2023 (annoucement Kitchat)
 - 👋 Hey #KitchenLovers! Our team has been hard at work perfecting the latest #KitChat update to make it even more awesome. 🤩 Unfortunately, we won't be able to release it for a few more days. 😔 But we promise it will be worth the wait! 👍 What are you most excited to see in the new update? #KitchenTalk #FoodieChat
 
