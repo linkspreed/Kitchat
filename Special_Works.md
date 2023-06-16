@@ -1,3 +1,6 @@
+### 16.06.2023 (announcement KitChat)
+- 📢News! KitChat is now available on our Subdomain system 🎉🎊! Visit https://kitchat.tk and get redirected to https://kitchat.linkspreed.com. No worries! Your data remains the same 😎. Excited to continue using our platform? #KitChat #Subdomain #Linkspreed 😍👍❤️
+
 ### 10.06.2023 (announcement Kitchat)
 - 🚀Attention all #Kitchat users!🚀 We're excited to announce the release of Version 3.9 Patch 3 🔥🎉 Get ready for some fantastic new features and improvements 🙌🏻 Don't forget to check out the Changelog and all important info on our Github Repository👀 What do you think of the update? #feedback #updates #technology 💻
 
