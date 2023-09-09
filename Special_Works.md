@@ -1,3 +1,27 @@
+### 09.09.2023 (announcement KitChat)
+- 📢 Hey there KitChat fam! 🌟 Exciting news! 🎉 Our team has just released a major update for KitChat - Version 3.10! 🚀🔥 Check out all the awesome changes on Github. 😍👉 Don't forget to let us know your thoughts! 🗣️💬 What new features are you most excited to explore? 🤔 #KitChatUpdate #NewRelease
+
+### 09.09.2023 (announcement KitChat)
+- https://github.com/linkspreed/KitChat/blob/main/changelog.md
+- The entire changelog is now available on Github.
+
+### 09.09.2023 (announcement KitChat)
+- The launch of version 3.10 of **KitChat** was successful! 🥳
+- The new update is live now :)
+- https://kitchat.linkspreed.com 🔗
+
+### 09.09.2023 (announcement KitChat)
+- We are now starting the launch of v3.10.
+
+### 09.09.2023 (announcement KitChat)
+- The servers are now ready for the launch of version 3.10 for **KitChat**.
+
+### 09.09.2023 (announcement KitChat)
+- The code is now ready for the launch of version 3.10 for **KitChat**.
+
+### 09.09.2023 (announcement KitChat)
+-  **KitChat** gets a big update today - we are going to launch v3.10. 😍
+
 ### 06.09.2023 (announcement KitChat)
 - 📢 Hey there, chat enthusiasts! 🙌 We're thrilled to announce the release of Kitchat version 3.9.1! 🎉🔥 Get ready for an enhanced chatting experience with our latest update. 📲💬 Have you already updated your app? Let us know what you think! 😊👇 #KitchatUpdate #EnhancedExperience
 
