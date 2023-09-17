@@ -1,3 +1,6 @@
+### 17.09.2023 (announcement Kitchat)
+- 📢 Exciting news, Kitchat fam! 🎉 We've just released Patch 1 and Patch 2, bringing you some awesome bug fixes! 🐛🔧 Discover all the changes and improvements on our Github page. Check it out now! 👀💻 #KitchatUpdates #BugFixes #GitHub
+
 ### 09.09.2023 (announcement KitChat)
 - 📢 Hey there KitChat fam! 🌟 Exciting news! 🎉 Our team has just released a major update for KitChat - Version 3.10! 🚀🔥 Check out all the awesome changes on Github. 😍👉 Don't forget to let us know your thoughts! 🗣️💬 What new features are you most excited to explore? 🤔 #KitChatUpdate #NewRelease
 
